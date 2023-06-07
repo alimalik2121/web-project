@@ -1,0 +1,39 @@
+@import url('Home.css');
+.addSong{
+    margin: 0 10%;
+}
+
+.form-item{
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+
+label{
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+input, textarea{
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type=text], textarea{
+    width: 100%;
+    resize: vertical;
+}
+
+textarea{
+    height: 50vh;
+}
+
+input[type=submit]{
+    float: right;
+    width: 200px;
+    border-radius: 100px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}

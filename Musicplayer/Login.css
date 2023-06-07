@@ -1,0 +1,28 @@
+h1{
+	margin-top: 30px;
+	text-align: center;
+	font-weight: bold;
+	color: #000000;
+}
+.btn-primary{
+   font-weight: bold;
+   padding-left: 50px;
+   padding-right: 50px;
+   margin-top: 50px;
+}
+.btn-dark{
+   font-weight: bold;
+   padding-left: 75px;
+   padding-right: 75px;
+   margin-top: 10px;	
+}
+.btn-light{
+   font-weight: bold;
+   padding-left: 70px;
+   padding-right: 70px;
+   margin-top: 10px;	
+}
+.login-form{
+	justify-content: center;
+	display: flex;
+}
